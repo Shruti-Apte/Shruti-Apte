@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shruti</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" margin="10px" width="400" src= "https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif" />
+
 - 🔭 I’m currently working on [Miru](https://app.miru.so/time-tracking)
 
 - 🌱 I’m currently learning **Next.js, Ruby**
