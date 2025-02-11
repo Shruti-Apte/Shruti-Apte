@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [Miru](https://app.miru.so/time-tracking)
 
-- 🌱 I’m currently learning **Ruby**
+- 🌱 I’m currently learning **Ruby on Rails**
 
 - 👨‍💻 You can checkout my journey [https://shruti-apte.github.io/Portfolio/#work](https://shruti-apte.github.io/Portfolio/#work)
 
