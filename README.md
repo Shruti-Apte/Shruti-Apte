@@ -6,20 +6,20 @@
 
 - 🌱 I’m currently learning **Ruby on Rails**
 
-- 👨‍💻 You can checkout my journey [https://shruti-apte.github.io/Portfolio/#work](https://shruti-apte.github.io/Portfolio/#work)
+- 👨‍💻 You can checkout my journey [https://shruti-apte.github.io/Portfolio/#/](https://shruti-apte.github.io/Portfolio/#/)
 
 - 💬 Ask me about **React**
 
 - 📫 How to reach me **shrutiapte20@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1pzIocclB19s1Z5WyYjSn0sgnFg2cvnF0/view](https://drive.google.com/file/d/1pzIocclB19s1Z5WyYjSn0sgnFg2cvnF0/view)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1obdQERlRWSJ_Bvd0FUUfZQ3YcD1grLPO/view?usp=drive_link](https://drive.google.com/file/d/1obdQERlRWSJ_Bvd0FUUfZQ3YcD1grLPO/view?usp=drive_link)
 
 - ⚡ Fun fact **I love to travel and take part in adventure activities**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 1. Gmail: shrutiapte20@gmail.com <br/>
-2. LinkedIn: (https://www.linkedin.com/in/shruti-apte-40324b188)
+2. LinkedIn: (https://www.linkedin.com/in/shrutiapte/)
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
