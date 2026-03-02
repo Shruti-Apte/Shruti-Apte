@@ -3,7 +3,7 @@
     Hey, I'm Shruti! 
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
-  <h2>Full-Stack Developer</h2>
+  <h2>Full-Stack (React + Python) Developer | Building scalable SaaS & AI-enabled products </h2>
 </div>
 
 <div id="badges" align="center">
@@ -56,10 +56,27 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white)
 ![Railway](https://img.shields.io/badge/Railway-131415?style=for-the-badge&logo=railway&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![Cloud Hosting](https://img.shields.io/badge/Cloud_Hosting-316192?style=for-the-badge&logo=icloud&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
+### 🔎 Currently Seeking:
+🌍 Open to Global Remote Roles <br/>
+🇮🇳 Open to India Remote <br/>
+📬 Available for interviews immediately
+
+---
+### 💼 MY Projects:
+- ## [Trip Planner: Map and ELD-logs for trucks](https://github.com/Shruti-Apte/spotter-trip-planner-fullstack): 
+    Tags: *#full-stack (React + Python) web app*
+  
+    React (Vite) + Django trip planner: Mapbox geocoding/directions, HOS timeline, and ELD-style log sheets for trucks.
+  
+- ## [Spotter Sky: Flight Search System](https://github.com/Shruti-Apte/spotter-sky):
+  Tags: *#React + tailwindcss + Complex Data Handling*
+  
+  A flight search UI that lets users enter routes and dates to view results with filtering, sorting, and price trends, built to showcase complex client-side data handling and state management.
+---
 ### :fire: My Stats :
 [![GitHub Streak](https://streak-stats.demolab.com?user=Shruti-Apte&theme=transparent&hide_border=true&mode=weekly&fire=FF2222&dates=2C68F6&currStreakLabel=2C68F6&currStreakNum=2C68F6)](https://git.io/streak-stats)
